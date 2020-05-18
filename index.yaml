@@ -1,0 +1,56 @@
+apiVersion: v1
+entries:
+  fluentd-cloudwatch:
+  - apiVersion: v1
+    appVersion: v1.7.3-debian-cloudwatch-1.0
+    created: 2020-05-18T15:50:38.015555725+01:00
+    description: A Fluentd CloudWatch Helm chart for Kubernetes.
+    digest: 774784bff9e9473f3bad0b35a4044081a938201c42c71f2a6b874725e863b488
+    engine: gotpl
+    home: https://www.fluentd.org/
+    icon: https://raw.githubusercontent.com/fluent/fluentd-docs/master/public/logo/Fluentd_square.png
+    keywords:
+    - fluentd
+    - cloudwatch
+    - logging
+    maintainers:
+    - email: jm.carp@gmail.com
+      name: jmcarp
+    - email: michael.haselton@gmail.com
+      name: icereval
+    - email: quentin.nerden@stylight.com
+      name: kenden
+    name: fluentd-cloudwatch
+    sources:
+    - https://github.com/kubernetes/charts
+    - https://github.com/fluent/fluentd-kubernetes-daemonset
+    urls:
+    - https://polarpoint-io.github.io/helm-charts/fluentd-cloudwatch-0.12.1.tgz
+    version: 0.12.1
+  - apiVersion: v1
+    appVersion: v1.7.3-debian-cloudwatch-1.0
+    created: 2020-05-18T15:50:38.016090887+01:00
+    description: A Fluentd CloudWatch Helm chart for Kubernetes.
+    digest: 774784bff9e9473f3bad0b35a4044081a938201c42c71f2a6b874725e863b488
+    engine: gotpl
+    home: https://www.fluentd.org/
+    icon: https://raw.githubusercontent.com/fluent/fluentd-docs/master/public/logo/Fluentd_square.png
+    keywords:
+    - fluentd
+    - cloudwatch
+    - logging
+    maintainers:
+    - email: jm.carp@gmail.com
+      name: jmcarp
+    - email: michael.haselton@gmail.com
+      name: icereval
+    - email: quentin.nerden@stylight.com
+      name: kenden
+    name: fluentd-cloudwatch
+    sources:
+    - https://github.com/kubernetes/charts
+    - https://github.com/fluent/fluentd-kubernetes-daemonset
+    urls:
+    - https://polarpoint-io.github.io/helm-charts/fluentd-cloudwatch/fluentd-cloudwatch-0.12.1.tgz
+    version: 0.12.1
+generated: 2020-05-18T15:50:38.014805084+01:00
